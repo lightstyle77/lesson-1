@@ -1,0 +1,5 @@
+Prime 27000
+Bumblebee 23000
+Ironhide 19000
+Ratchet 21000
+Jetfire 10000
